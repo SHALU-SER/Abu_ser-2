@@ -20,7 +20,7 @@ var split = Config.KAZTRO_SER.split('/');
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+Amalser.addCommand({pattern: 'abuser', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!credit Ajayan
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: sk1 }, type: 1},
@@ -29,7 +29,7 @@ Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (a
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Aᴍʀᴜ sᴇʀ ©',
+          footerText: 'Aʙᴜ sᴇʀ ©',
           buttons: buttons,
           headerType: 1
       }
