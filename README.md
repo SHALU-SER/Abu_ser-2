@@ -17,7 +17,7 @@
 <img src=https://www.linkpicture.com/q/IMG-20220108-WA0143.jpg>
 </p>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+ABUSER+WA+BOT+REPO;CREATED+BY+ARX+ABU;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F7000&lines=WELCOME+TO+ABUSER+WA+BOT+REPO;CREATED+BY+AJX+ABU;THIS+IS+A+USERBOT+PRIVATE+AND+PUBLIC+BOT;WITH+MORE+FEATHERS)](https://git.io/typing-svg)
 
 
   <p align="center">
@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Abu_ser</a> to ma
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Arx-Abu/Abu_ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser.git)
 
 
 
@@ -55,7 +55,7 @@ Project created by <a href="https://github.com/cyberchekuthan">Abu_ser</a> to ma
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Arx-Abu/Abu_ser
+$ git clone https://github.com/Ajx-Abu/Abu_ser
 $ cd Abu_ser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -64,7 +64,7 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Arx-Abu/Abu_ser
+$ git clone https://github.com/Ajx-Abu/Abu_ser
 $ cd Abu_ser
 $ npm i
 $ node julie.js
@@ -73,16 +73,16 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="https://github.com/Arx-Abu/Abu_ser">
+  <a href="https://github.com/Ajx-Abu/Abu_ser">
     
-<a href="https://github.com/Arx-Abu/followers">
+<a href="https://github.com/Ajx-Abu/followers">
 <img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Arx-Abu/followers"
+<a href="https://github.com/Ajx-Abu/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Arx-Abu/Abu_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Arx-Abu/Abu_ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Arx-Abu/Abu_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Arx-Abu/Abu_ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Arx-Abu/Abu_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Arx-Abu/Abu_ser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajx-Abu/Abu_ser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ajx-Abu/Abu_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajx-Abu/Abu_ser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ajx-Abu/Abu_ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Ajx-Abu/Abu_ser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ajx-Abu/Abu_ser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -92,7 +92,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/JM2qHJm8zS95itgHXjd88R)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-SER&theme=nightowl)](https://github.com/AMRUSIR/AMRU-SER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ajx-Abu&repo=Abu_ser&theme=nightowl)](https://github.com/Ajx-Abu)
   </div>
     
 ### ⚠ Warning ⚠
@@ -111,14 +111,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Arx-Abu](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025994178?text=Can%20you%20help%20bro)**
+**[![Ajx-Abu](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](http://wa.me/917025994178?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Arx-Abu](https://github.com/Arx-Abu.png?size=100)](https://github.com/Arx-Abu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Ajx-Abu](https://github.com/Ajx-Abu.png?size=100)](https://github.com/Ajx-Abu) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [Arx-Abu](https://github.com/Arx-Abu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
+[farhan-dqz](https://github.com/farhan-dqz) | [Ajx-Abu](https://github.com/Ajx-Abu) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
