@@ -76,8 +76,9 @@ $ node julie.js
   <a href="https://github.com/Ajx-Abu/Abu_ser">
     
 <a href="https://github.com/Ajx-Abu/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Kaztroserv1_v2?color=green&label=Repo%20total%20size&style=plastic">
-<a href="https://github.com/farhan-dqz/followers"
+<img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
+<p align="center">
+a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
 <a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
 <a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
